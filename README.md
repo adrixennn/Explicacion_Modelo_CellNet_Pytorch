@@ -1,7 +1,7 @@
 # Explicacion_Modelo_CellNet_Pytorch
 Aquí presento una pequeña guía sobre el funcionamiento del algoritmo de Pytorch utilizado para un modelo supervisado de clasificación de tumores en función de las medidas de la célula en las clases "Normal", "Benigno" y "Maligno".
 
-## Funcionamiento del Algoritmo.
+## Funcionamiento del Algoritmo
 El algoritmo utilizado para la clasificación en las predicciones consta de una red neuronal diseñada para aprender patrones no lineales a partir de 4 variables de entrada.
 
 ### Arquitectura del Modelo
